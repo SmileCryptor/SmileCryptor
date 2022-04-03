@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**SmileCryptor/SmileCryptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi. I'm a senior Blockchain and Full-Stack developer who likes to work with Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), JavaScript/Typescript (React, Angular, Vue.js, TensorFlow.js, Node, Nest), Python among others. Since I've graduated the university, I’ve joined several companies and dev teams to build web and defi apps.
+Welcome to me. I'm a senior Blockchain and Full-Stack developer who likes to work with Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155).
+JavaScript/Typescript (React, Angular, Vue.js, TensorFlow.js, Node, Nest), Python among others are also my favourite stack. I’ve joined several companies and dev teams to build web and defi apps.
 
 Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
 
@@ -15,4 +13,4 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
