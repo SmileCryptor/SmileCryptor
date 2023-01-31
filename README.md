@@ -10,7 +10,7 @@
 <li>Email: <a href="mailto:smiledever423@gmail.com">smiledever423@gmail.com</a></li>
 <li>Telegram: @Muny Lee</li>
 <li>Skype: live:.cid.a5cd4ce11276d42f</li>
-<li>Linkedin: <a href="https://www.linkedin.com/in/danny-jin-378ab41a8" rel="nofollow">https://www.linkedin.com/in/danny-jin-378ab41a8</a></li>
+<li>Linkedin: <a href="https://www.linkedin.com/in/luisl3320950423/" rel="nofollow">https://www.linkedin.com/in/luisl3320950423/</a></li>
 </ol>
 </li>
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns: He/His</li>
