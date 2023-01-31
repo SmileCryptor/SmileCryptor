@@ -7,7 +7,7 @@
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about LOVE for Programming!</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me:
 <ol dir="auto">
-<li>Email: <a href="mailto:smiledever423@gmail.com">smiledever423@gmail.com</a></li>
+<li>Email: <a href="mailto:smiledever423@gmail.com">smiledever423@gmail.com, luislee0423@gmail.com</a></li>
 <li>Telegram: @Muny Lee</li>
 <li>Skype: live:.cid.a5cd4ce11276d42f</li>
 <li>Linkedin: <a href="https://www.linkedin.com/in/luisl3320950423/" rel="nofollow">https://www.linkedin.com/in/luisl3320950423/</a></li>
